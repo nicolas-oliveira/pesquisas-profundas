@@ -1,0 +1,247 @@
+/dev/input/event0
+   bustype : BUS_HOST
+   vendor  : 0x0
+   product : 0x5
+   version : 0
+   name    : "Lid Switch"
+   phys    : "PNP0C0D/button/input0"
+   bits ev : (null) (null)
+
+/dev/input/event1
+   bustype : BUS_HOST
+   vendor  : 0x0
+   product : 0x1
+   version : 0
+   name    : "Power Button"
+   phys    : "PNP0C0C/button/input0"
+   bits ev : (null) (null)
+
+/dev/input/event2
+   bustype : BUS_I8042
+   vendor  : 0x1
+   product : 0x1
+   version : 43907
+   name    : "AT Translated Set 2 keyboard"
+   phys    : "isa0060/serio0/input0"
+   bits ev : (null) (null) (null) (null) (null)
+
+/dev/input/event3
+   bustype : BUS_HOST
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "Dell Privacy Driver"
+   bits ev : (null) (null) (null)
+
+/dev/input/event4
+   bustype : (null)
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "HDA NVidia HDMI/DP,pcm=3"
+   phys    : "ALSA"
+   bits ev : (null) (null)
+
+/dev/input/event5
+   bustype : BUS_I8042
+   vendor  : 0x2
+   product : 0x1
+   version : 0
+   name    : "PS/2 Generic Mouse"
+   phys    : "isa0060/serio1/input0"
+   bits ev : (null) (null) (null)
+
+/dev/input/event6
+   bustype : BUS_USB
+   vendor  : 0x258a
+   product : 0x16
+   version : 272
+   name    : "BY Tech Usb Gaming Keyboard"
+   phys    : "usb-0000:00:14.0-1/input0"
+   uniq    : ""
+   bits ev : (null) (null) (null) (null) (null)
+
+/dev/input/event7
+   bustype : BUS_USB
+   vendor  : 0x258a
+   product : 0x16
+   version : 272
+   name    : "BY Tech Usb Gaming Keyboard Syst"
+   phys    : "usb-0000:00:14.0-1/input1"
+   uniq    : ""
+   bits ev : (null) (null) (null)
+
+/dev/input/event8
+   bustype : BUS_USB
+   vendor  : 0x258a
+   product : 0x16
+   version : 272
+   name    : "BY Tech Usb Gaming Keyboard Cons"
+   phys    : "usb-0000:00:14.0-1/input1"
+   uniq    : ""
+   bits ev : (null) (null) (null) (null) (null)
+
+/dev/input/event9
+   bustype : BUS_USB
+   vendor  : 0x258a
+   product : 0x16
+   version : 272
+   name    : "BY Tech Usb Gaming Keyboard"
+   phys    : "usb-0000:00:14.0-1/input1"
+   uniq    : ""
+   bits ev : (null) (null) (null) (null)
+
+/dev/input/event10
+   bustype : BUS_USB
+   vendor  : 0x258a
+   product : 0x16
+   version : 272
+   name    : "BY Tech Usb Gaming Keyboard Mous"
+   phys    : "usb-0000:00:14.0-1/input1"
+   uniq    : ""
+   bits ev : (null) (null) (null) (null)
+
+/dev/input/event11
+   bustype : BUS_HOST
+   vendor  : 0x0
+   product : 0x6
+   version : 0
+   name    : "Video Bus"
+   phys    : "LNXVIDEO/video/input0"
+   bits ev : (null) (null)
+
+/dev/input/event12
+   bustype : BUS_HOST
+   vendor  : 0x0
+   product : 0x6
+   version : 0
+   name    : "Video Bus"
+   phys    : "LNXVIDEO/video/input0"
+   bits ev : (null) (null)
+
+/dev/input/event13
+   bustype : BUS_HOST
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "Intel HID events"
+   bits ev : (null) (null) (null)
+
+/dev/input/event14
+   bustype : BUS_HOST
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "Intel HID 5 button array"
+   bits ev : (null) (null) (null)
+
+/dev/input/event15
+   bustype : (null)
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "HDA NVidia HDMI/DP,pcm=7"
+   phys    : "ALSA"
+   bits ev : (null) (null)
+
+/dev/input/event16
+   bustype : (null)
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "HDA NVidia HDMI/DP,pcm=8"
+   phys    : "ALSA"
+   bits ev : (null) (null)
+
+/dev/input/event17
+   bustype : (null)
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "HDA NVidia HDMI/DP,pcm=9"
+   phys    : "ALSA"
+   bits ev : (null) (null)
+
+/dev/input/event18
+   bustype : BUS_HOST
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "Dell WMI hotkeys"
+   bits ev : (null) (null) (null)
+
+/dev/input/event19
+   bustype : BUS_I2C
+   vendor  : 0x6cb
+   product : 0xce81
+   version : 256
+   name    : "DELL0B64:00 06CB:CE81 Mouse"
+   phys    : "i2c-DELL0B64:00"
+   uniq    : ""
+   bits ev : (null) (null) (null) (null)
+
+/dev/input/event20
+   bustype : BUS_I2C
+   vendor  : 0x6cb
+   product : 0xce81
+   version : 256
+   name    : "DELL0B64:00 06CB:CE81 Touchpad"
+   phys    : "i2c-DELL0B64:00"
+   uniq    : ""
+   bits ev : (null) (null) (null) (null)
+
+/dev/input/event21
+   bustype : (null)
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "sof-hda-dsp Headphone Mic"
+   phys    : "ALSA"
+   bits ev : (null) (null)
+
+/dev/input/event22
+   bustype : (null)
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "sof-hda-dsp HDMI/DP,pcm=3"
+   phys    : "ALSA"
+   bits ev : (null) (null)
+
+/dev/input/event23
+   bustype : (null)
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "sof-hda-dsp HDMI/DP,pcm=4"
+   phys    : "ALSA"
+   bits ev : (null) (null)
+
+/dev/input/event24
+   bustype : (null)
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "sof-hda-dsp HDMI/DP,pcm=5"
+   phys    : "ALSA"
+   bits ev : (null) (null)
+
+/dev/input/event25
+   bustype : BUS_USB
+   vendor  : 0x46d
+   product : 0x4054
+   version : 273
+   name    : "Logitech Wireless Mouse"
+   phys    : "usb-0000:00:14.0-4/input1:2"
+   uniq    : "00-00-00-00"
+   bits ev : (null) (null) (null) (null)
+
+/dev/input/event26
+   bustype : BUS_BLUETOOTH
+   vendor  : 0x5d6
+   product : 0xa
+   version : 576
+   name    : "QCY-T13 (AVRCP)"
+   phys    : "14:75:5b:99:8c:fb"
+   bits ev : (null) (null) (null) (null)
+

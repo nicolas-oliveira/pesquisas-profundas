@@ -1,0 +1,43 @@
+NÍVEIS DE VISÕES LÓGICAS                        MODELOS
+_________________________                       _______
+
+                           ENTIDADE-RELACIONAMENTO  REDE   RELACIONAL  CONJUNTO-ENTIDADE
+
+NÍVEL 1                    ENTIDADES               ENTIDADES    ENTIDADES     ENTIDADES
+INFORMAÇÃO CONCERNENTE     CONJUNTOS DE ENTIDADES  RELACIONAM.  CONJUNTOS     CONJUNTOS
+A ENTIDADES E             RELACIONAMENTOS         |            DE ENTIDADES   DE ENTIDADES
+RELACIONAMENTOS           CONJUNTOS DE RELACIONAM. ATRIBUTOS   PAPÉIS        PAPÉIS
+                         |                        VALORES      |             |
+                         ATRIBUTOS                             |             |
+                         VALORES                               |             |
+                         CONJUNTOS DE VALORES                  |             |
+                         PAPÉIS                               |             |
+                         |                                    |             |
+                         |                          ---- ---- |             |
+                         v                         |         v             v
+NÍVEL 2                  RELAÇÃO                  SIMILAR ---> 3FN        CONJUNTOS
+ESTRUTURA DA            ENTIDADE/RELACIONAMENTO   <----       RELAÇÕES    DESCRIÇÃO
+INFORMAÇÃO              ^                                    ^           DE ENTIDADES
+                        |                                    |           |
+                        DIAGRAMA                             |           |
+                        ENTIDADE-RELACIONAMENTO              |           |
+                        |                                    |           |
+                        v                                    |           |
+NÍVEL 3                 TABELA                              |           |
+ESTRUTURA DE DADOS      |                                   |           |
+INDEPENDENTE DE        |                    RELAÇÕES       |           |
+CAMINHO DE ACESSO      |                    (TABELAS) <----             |
+                       |                    ^                          |
+                       |                    |                          |
+                       |                    |        ABORDAGEM         |
+                       |                    |        DE                |
+                       |                    |        DECOMPOSIÇÃO <----
+                       |                    |
+                       v                    |
+NÍVEL 4                |                    |
+ESTRUTURA DE DADOS     |                    v
+DEPENDENTE DE          REGISTROS           |
+CAMINHO DE ACESSO      CONJUNTOS-ESTRUTURA-DADOS
+                       |
+                       v
+                       DIAGRAMA-ESTRUTURA-DADOS\

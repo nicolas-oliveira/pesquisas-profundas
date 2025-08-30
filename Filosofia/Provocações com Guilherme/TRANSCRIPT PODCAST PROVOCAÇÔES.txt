@@ -1,0 +1,145 @@
+Albujamra: csIzxzZdbjWiUZGx5ize
+Mario:Zk0wRqIFBWGMu2lIk7hw
+
+1. Emoções Primárias
+
+🎭 Tags para estados emocionais fundamentais:
+
+- Felicidade: [happy], [excited], [joyful]
+- Tristeza: [sad], [sorrowful], [melancholic]
+- Raiva: [angry], [furious], [outraged]
+- Irritação: [nervous], [anxious], [stressed]
+- Calmo: [calm], [relaxed], [peaceful]
+- Sentimentos Dúbios: [confused], [curious], [pensive]
+- Sarcástico: [sarcastic], [mocking], [ironic]
+- Aterrorizado: [fearful], [terrified], [panicked]
+
+🗣️ Reações Humanas e Sons Não Verbais:
+
+- Risos: [laughs], [chuckles], [giggles], [wheezing], [maniacal laughter]
+- Suspensos/Respiros: [sighs], [exhales], [gasps], [yawns]
+- Vocalizações: [crying], [sobbing], [snorts], [gulps], [clears throat]
+- Pausas Cognitivas: [hesitates], [stammers], [pauses], [long pause]
+
+🎙️ Direção de Voz e Entonação:
+
+- Intensidade: [whispers], [shouting], [yelling], [muttering]
+- Tom: [deadpan], [playful], [serious], [sinister], [authoritative]
+- Velocidade: [rushed], [slow pace], [drawn out]
+- Ênfase: [emphatic], [softly], [building intensity]
+
+🔊 Efeitos Sonoros Contextuais:
+- Reações Físicas: [applause], [clapping], [snaps fingers]
+- Ações/Armas: [door creaks], [footsteps], [gunshot], [explosion]
+- Natureza/Ambiente: [wind howling], [rain falling], [bird chirping]
+
+⚠️ Notas Importantes
+
+- Combinações: Tags podem ser usadas em sequência para camadas emocionais (ex: [nervously][whispers]).
+- Vozes Compatíveis: Funcionam melhor com Instant Voice Clones (IVC); Professional Voice Clones (PVC) têm suporte limitado no V3 58.
+- Punuição: Elementos como ... (pausas) e CAPS (ênfase) potencializam os efeitos.
+- Limitações: Tags experimentais (como sotaques) podem gerar inconsistências.
+
+
+Tags Principais de Sarcasmo:
+
+- [sarcastic] - Tom ironicamente zombeteiro
+- [dry sarcasm] - Sarcasmo muito seco
+- [sardonic sigh] - Suspiro com humor sardônico
+- [sarcastic narration] - Narração com tom sarcástico
+- [mockingly] - Tom de zombaria
+- [dismissive] - Tom desdenhoso
+
+
+Exemplo de 1)"Hum entendi". 2)"Ah Entendi" e 3)"Ahá, entendi aonde você quer chegar"
+
+1) [thoughtful hum, slow pace] Hmm... Entendi
+
+ou 
+[thinking hum][quietly] Entendi
+
+ou
+[relieved][drawn out] Ahhh… entendi! 
+
+ou
+[awe][pause] Ahhh… entendi! 
+
+ou 
+[long hum] Entendi
+
+2) [soft gasp, enlightened tone] Ahhh... [slight laugh] entendi!
+
+ou
+[ah][drawn out] Entendi
+
+3) [aha][sarcastically] Entendi exatamente... você quer chegar.
+
+
+
+
+------------------------------------------------------------------------------------------------------------------
+
+1 (ALBUJAMRA): Todos me perguntam o que é o Provocações , me diz o seguinte, o que é? o que é provocações? A verdade é que ninguém quer saber desta  BOSTA desse programa. Provocações é um programa que ninguém sabe o que é... Ninguém sabe se é talk show, se não é talk show. No programa do provocações de hoje recebemos aqui a ilustre presença do nosso convidado Guilherme Alberti mestre em filosofia e um grande pensador moderno além de um grande devoto não é mesmo?
+
+2 (GUILHERME): Obrigado pelos elogios Abujamra, [chuckles] acho que o "PROVOCAÇÕES" é o que o povo precisa, é ser provocado a pensar, então vou direto ao assunto contigo. Albujamra, [thoughtful] estou muuito curioso de que tópico falaremos hoje?
+
+3 (ALBUJAMRA): [soft voice] Ah Guilherme, que bom que perguntou, vamos lá! [sarcastic] Vamos tentar responder uma pergunta simples, mas que faz os homens tremerem, você já se sentiu assim? [chuckles] A pergunta é: [long sigh] O que é a vida que vale a pena ser vivida?... [long pause] Epicuro nos prometeu a ataraxia, a tranquilidade pela ausência de dor e medo... [dry chuckle] Mas essa busca por paz é uma ilusão infantil! Lacan, ah, Lacan nos revela que o sujeito é fundamentalmente "fendido", "dividido" pelo inconsciente e pela Ordem Simbólica! Como pode haver paz onde há uma "falta inerente"? [thoughtful] E Freud, o mestre do "mal-estar na civilização", nos condenou a um "sentimento perpétuo de descontentamento", um conflito inevitável entre as pulsões e as exigências civilizacionais. [OUTRAGED] Não há escapatória. [exhales sharply]
+
+
+4 (GUILHERME): Então, para ser feliz, precisamos... [short pause] amar a dor? [curious] [short pause] Isso não é vida, [outraged] é uma "tirania contra a 'natureza'" que Nietzsche criticou nos próprios estoicos! [excited] Freud nos diz que estamos presos entre nossos desejos e as regras da sociedade, gerando um "mal-estar" [speak louder] inevitável. [shout] E Lacan... [short pause] ele apenas confirma que sempre haverá uma "carência da falta de carência", um buraco que a linguagem e o desejo nunca preenchem. O "presente" é sempre moldado por um inconsciente que nos perturba.
+
+5 (GUILHERME): [outraged] Não se trata de amar a dor pela dor, [excited] [short pause] mas de transformar o sofrimento em um catalisador para a profundidade e a criatividade. [long pause] Nietzsche afirma que "apenas a grande dor é o libertador supremo do espírito". Para Heidegger, ser autêntico é viver com a consciência de nossa finitude, fazendo escolhas verdadeiramente nossas, em vez de nos conformarmos ao [outraged] "Eles" [outraged] "das Man", ou seja, anônimo. [exited] E o estoicismo, com seu conceito de Prosoché, nos ensina a "viver cada momento intencionalmente com atenção plena", focando no que está sob nosso controle. [clears throat] E então Albujamra? [CURIOUS] o que acha sobre tudo isso que falei? [CURIOUS] tem algo a me dizer contra? [SARCASTIC]
+
+6 (ALBUJAMRA): [outraged] [sarcastic narration] A paz de espírito é um desapego tedioso, não é mesmo? [sarcastic narration] Uma negação covarde da vida. [pause] [sarcastic narration] Sua "autenticidade" heideggeriana? [sarcastic narration] Apenas uma dança desesperada diante da morte. [sarcastic narration] E o Amor Fati de Nietzsche, essa "fórmula para a grandeza", é, no fundo, a resignação de quem já não tem mais para onde fugir. [soft sink]
+
+7 (GUILHERME): [thoughtful hum, slow pace]  [sarcastic] Ahhh! Abujamra, [pause]  entendi exatamente aonde você quer chegar... [sarcastic]  A "paz de espírito" que muitos buscam é entorpecimento ou fuga, isso pode de fato ser profundamente triste para alguns. [DRAMATIC TONE]   Os próprios céticos poderiam alcançar uma tranquilidade que se revelaria entediante se não fosse sustentada por crenças verdadeiras.[speaking faster] E Nietzsche, que você tanto gosta e ao mesmo tempo critica, censurou o estoicismo justamente por subestimar o valor da dor e da paixão, vendo sua busca pela "insensibilidade" como uma [annoyed] "TIRANIA CONTRA A 'NATUREZA'" e uma "FRAUDE"! Ele dizia que essa rigidez e frieza eram "dispositivos anestésicos" que MATAVAM A SENSIBILIDADE necessária para as angústias, superando a angústia ao "matar a sensibilidade". ... Mas a vida ainda tem VALOR! Ela TEM que ter! A vida tem o VALOR que nós damos a ela. [annoyed]
+
+8 (ALBUJAMRA): [laughs louder] [speak lauder] [exited] Você tirou isso de uma frase de caminhão por acaso? [pause] [soft speak] Vamos outra vez: [pause] "O que é a vida que vale a pena ser vivida?" Pense! Rapaz, fale por si mesmo não se esconda atrás de ídolos! [exited]
+
+9 (GUILHERME): [sarcastic] Essa "frase de caminhão"? [laughs] Na verdade ecoa Nietzsche, que nos desafiou a criar sentido num mundo [sighs] caótico: "julgamentos de valor nunca podem ser verdadeiros: têm valor apenas como sintomas"! [pause] SOMOS NÓS os "doadores de valor"! [excited] Base pra entender "a vida que vale a pena"... [sighs] Talvez essa vida tenha não só "autenticidade", mas CONTEMPLAÇÃO DO PRESENTE! Sabendo que decisões têm efeitos [angry] causas que controlamos ou NÃO! Isso é estoicismo. [sarcastic] E "amar tudo"? [laughs] ÓBVIO que não! Amar PRECONCEITO? [shouts] GENOCÍDIO? [pause] IMPOSSÍVEL! [tired] Ninguém consegue... Mas reconhecer o que podemos amar perto? [whispers] ISSO vale a pena! Não "eterno retorno" [mocking] que parece fita quebrada repetindo! [pause] É sobre VIVER pela razão, verdade e ciência! [excited] Vida sem ídolos! [furious] E essa "autenticidade" heideggeriana que chama "dança desesperada"? [pause] PELO CONTRÁRIO! [firm] Angústia NÃO é pra evitar.
+
+10 (ALBUJAMA): [mocking laugh, dripping with contempt] Lacan e Freud, coitados? [bitter chuckle] Apenas confirmam a farsa! [frustrated sigh, voice trembling] O desejo é um vazio cruel - você quer porque NUNCA terá! [indignant shout, rising anger] Como pode haver paz duradoura quando o inconsciente está SEMPRE lá para sabotar o presente? [scathing tone, slow deliberate pace] Essa "tranquilidade" que você prega? [derisive snort] Não passa de um mero desapego... [frustrated pause] que se revela PROFUNDAMENTE TEDIOSO! [sarcastic laugh building to rage] Se felicidade é só "estado de espírito"?  [voice breaking with fury] Então devíamos estar no PSIQUIATRA! [contemptuous emphasis] Ou dopados no farmacêutico! [shouting] NÃO FILOSOFANDO!
+
+11 (ALBUJAMRA): [laugs] Ah Guilherme vou perguntar de novo [pause] "O que é [fast pause] [speak faster] a vida que vale a pena ser vivida? [soft sink]
+
+12 (GUILHERME): [furious] A vida que vale a pena ser vivida é a que podemos viver, não tem saída! [angry] Sei que você DETESTA metafísica mas quando chama o Amor Fati de Nietzsche de "barganha desesperada"? [laughs] Isso é DISTORCER a essência vital dele! [passionate] Nietzsche não propõe passividade mas afirmação RADICAL da existência! [excited] Existimos com FORÇA! É assim que deve ser! [angry] Não é suportar o sofrimento, é AMÁ-LO como parte do seu destino! [thoughtful] Ele chamava os estoicos de FRACOS! [shouts] Sua "anestesia emocional"? Forma de COVARDIA! [excited] A verdadeira grandeza vem do abraço ATIVO da adversidade! [passionate] Transformar dor em força criativa! [reverent] A "grande dor" é a LIBERTADORA do espírito! [sighs] Não nos torna "melhores" - [firm] nos torna muito mais PROFUNDOS! [shouts] É um "SIM" incondicional à vida total! [excited] Com TODAS as vicissitudes! [passionate] Essa "indiferença" ao sofrimento? [laughs] Não é apatia! [triumphant] É paixão TRANSBORDANTE pela vida!!!
+
+13 (ALBUJAMA): [long exasperated sigh] Talvez... [dramatic pause, voice shaking] TALVEZ uma vida que valha a pena seja sobre felicidade... [bitter laugh] você quase me convenceu! [explosive shout, furious] Mas esqueceu que o SOFRIMENTO HUMANO É INEVITÁVEL? O homem SOFRE! A realidade É SOFRIDA! [scathing tone, dripping contempt] E você é INOCENTE de dizer essas palavras! [slow building rage] A vida que vale a pena... [frustrated groan] talvez você já cogitou que seja sobre ENFRENTAR O ABISMO? [intense whisper rising to shout] De OLHOS ABERTOS! Aceitando a FALTA! O CONFLITO! [derisive snort] E essa inevitabilidade do inconsciente SEMPRE nos perturbando? [sardonic laugh, then sudden intensity] Se você conseguir... [voice trembling with emotion] terá um domínio existencial sobre si mesmo, sim... [bitter chuckle, resigned sigh] Mas um domínio que se sabe... [painful pause] FRÁGIL.
+
+14 (GUILHERME): [sighs] [sarcastic] Vamos lá... [pause] já conversamos sobre estoicismo e sua muleta na "virtude"! [laughs] [angry] Esse idealismo da razão, o ceticismo como contra-balance... [frustrated] falamos de Lacan, Heidegger, Nietzsche... [passionate] O que o senhor NÃO enxerga é como TODAS essas ideias estão profundamente CONECTADAS! [sarcastic] Heidegger usa aquele termo pomposo "DASEIN"... [whispers] "ser-no-tempo", sabe? [excited] Para falar da existência como definição fundamental do ser! [shouts] ISSO causou um PORRE de alvoroço filosófico total! [sarcastic] Lacan criticou ele até não poder mais... [frustrated] Mas na existência humana concreta? [angry] Não tem como NEGAR que somos todos reféns do tempo, né?! [laughs] [slow] O ser que tá sempre... [pause] SEMPRE correndo o risco de cair na terrível inautenticidade... [mocking] Na famosa "roda dos ratos"! [pause] Já ouviu essa expressão clássica? Ou vive completamente mergulhado nela mesmo, meu caro amigo querido?!! [confused]
+
+15 (ALBUJAMA): [bitter laugh escalating to rage] SIM! O homem fica PRESO no trabalho! [slam fist effect] E AFOGADO em dívidas! [scathing tone, dripping sarcasm] Ah... [exasperated sigh] uma "crítica ao capitalismo"? [voice trembling with fury] Isso não é crítica - [shouting] é DENÚNCIA DA CARNIÇARIA! [derisive snort, then explosive anger] E como um homem [contemptuous pause] EXPLORA [violent emphasis] OUTRO HOMEM? [hollow laugh, building to scream] Isso não é sistema [voice breaking] É CANIBALISMO SOCIAL!
+
+16 (GUILHERME): [scathing tone] [bitter laugh] Mas não é SÓ ISSO que Heidegger fala! [frustrated groan] Pensa comigo: [voice rising] [indignant] Se você seguir uma manada sem pensar... [mocking whisper] cegamente... [sudden shout] VOCÊ NÃO ESTÁ VIVENDO UMA VIDA QUE VALE A PENA! [exasperated sigh] Isso é autenticidade? [derisive snort] E ainda tem o "impessoal"! [building fury] [voice trembling] Pra Heidegger, a ANGÚSTIA... [dramatic pause] essa coisa existencial DIFERENTE do medo banal... [shouting] Ela é um SINAL FUNDAMENTAL! [raw intensity] [breathless] Ela nos ARRANCA da ilusão! Mostra nossa FINITUDE... [guttural emphasis] NOSSA LIBERDADE... [voice breaking] e a RESPONSABILIDADE pelas nossas escolhas! [slow whisper rising to loud] É um CHAMADO... para sair do modo automático... [defiant shout] e ASSUMIR A PRÓPRIA VIDA! "MOMENTO MORRI" [final whisper] [chilling] Lembre-se... que és mortal.
+
+17 (ALBUJAMA): [astonished] [sarcastic clapping] Que impressionante, Guilherme! [bitter laugh] Nas provocações, normalmente as pessoas ficam no raso... [voice trembling with indignation] mas você conseguiu me surpreender! [frustrated sigh escalating to intensity] Fato é que a ANGÚSTIA que a gente tenta tanto evitar? [pounding fist] Pode ser o EMPURRÃO para viver de forma mais verdadeira! [defiant shout, echoing] Encare o abismo! [dramatic pause] Não tem problema ele olhar de volta! [scathing tone][mocking chuckle] As verdades que as pessoas não querem ouvir? [derisive snort] Isso é FATO! Diógenes segurava uma lamparina de dia procurando um homem justo... [sudden intensity] [voice rising] Eu? [mocking laugh] Procuro pessoas honestas com óculos escuro à noite SÓ PARA CONTRARIAR! [existential weight] [slow build] Tudo que dissemos... [awed pause] me conecta com Jung! [bitter chuckle][accelerating pace] Ele também via o vazio do desejo como CHAVE! [furious correction] Mas não é aceitar passivamente, NÃO!  [explosive shout] [slams fist] NÃO É RESIGNAÇÃO É REVOLTA CRIADORA!
+
+18 (GUILHERME): [furious correction] [slams fist] AGORA SIM ESTAMOS ENTRANDO EM ACORDO ABUJAMA! NÃO é resignação!  [passionate intensity] [voice trembling] É um ABRAÇO ATIVO! [guttural emphasis] Um AMOR por TUDO que a vida traz! [scathing tone, pacing] O BOM... [dramatic pause] O RUIM... [contemptuous pause] O SOFRIMENTO... [defiant shout] TUDO!  [intellectual fire] [accelerating] O Jung? [mocking laugh] Ele ligava isso a trazer o inconsciente pra consciência! [rhetorical whisper] [building volume]  Sabe para QUÊ? [sudden shout] Pra não sermos MARIONETES! [furious pace, pounding fist] Daquilo que nem ENTENDEMOS em nós mesmos! [derisive snort] E chamamos de "destino"! [reverent tone, awed] É INTEGRAR nossa sombra... [voice breaking] Essas partes DIFÍCEIS... [challenging intensity] Com CURIOSIDADE! [scathing correction] NÃO com julgamento! [bitter laugh escalating to rage] Rejeitar o Amor Fati? [hollow chuckle] [existential scream, echoing] Seria REJEITAR A PRÓPRIA VIDA!
+
+19 (ALBUJAMA): [scoffs, dripping sarcasm] Garoto, você é bom... [mocking clap] Está começando a convencer o velho aqui! [bitter laugh escalating to intensity] Amar o pacote completo? [voice trembling] Não só por amar... [guttural emphasis] Mas porque o ser é TEMPO e o NADA! [furious shout, slams fist] O desejo faz parte do ser! O nada TAMBÉM! [sudden silence, then derisive snort] Porém... [dramatic pause] Você esqueceu um detalhezinho aí... [maniacal laughter] [scathing tone, accelerating pace] Essa ideia de viver conforme a virtude? [mocking whisper] Não agradou todo mundo, NÉ? [challenging shout, pounding fist] Você defenderia um ideal até sua MORTE? [hollow laugh, resigned rage] Jovem... [slow deliberate] Os deuses morreram... [voice breaking] E NÓS os matamos! [leaning in, venomous whisper] E eu digo MAIS... [explosive rage, echoing] MATE SEUS DEUSES LOGO! [guttural scream] Antes que você se AFOGUE! [exhausted sigh, building intensity] A esperança? [bitter chuckle] É um desejo dentro de um presente com LAÇO! [reverent terror, voice trembling] O "nada" que a angústia revela... [awed pause] Não é um vazio... [philosophical intensity, rising] É a PRÓPRIA ESTRUTURA do nosso ser! [raw shout, breathless] A vida que vale a pena? [slam fist] Para Heidegger? [voice cracking with revelation] É um "ENGAJAMENTO ANSIOSO"! [dead silence, then whisper] Com essa finitude... [building to scream] Com as incertezas! [furious condemnation] NÃO uma fuga para segurança ilusória! [derisive snort, contemptuous] Você está se entorpecendo... [hollow laugh fading to silence] Com ILUSÕES.
+
+20 (GUILHERME): [bitter laugh escalating to rage] Ah, sim senhor! [scoffs, dripping sarcasm] Isso é EXATAMENTE o que Nietzsche não perdoava! [furious shout, slams fist]  Ele achava esse lema histórico... [mocking tone] "viver de acordo com a natureza"? [derisive snort, contemptuous] Uma quase INGENUIDADE! [sudden intensity, leaning in] Mas sabe de uma coisa, Albugama? [maniacal laughter echoing into silence]
+
+21 (ALBUJAMA): [derisive laugh escalating to shout] Guilherme?! [mocking tone] Estamos no PROVOCAÇÕES! [defiant scream, pounding fist] Aqui pode dizer O QUE QUISER! [maniacal laughter] [voice dripping sarcasm, then sudden intensity] Sua mente? [dramatic pause, whispered] [explosive shout with echo effect] É NOSSO ESPETÁCULO! [triumphant laugh fading to whisper] [exasperated sigh, dripping sarcasm] [dramatic pause] Guilherme... Não vamos parar aqui [frustrated groan building to shout] Peço Por favor CONTINUE! [maniacal laugh, then sudden intensity] Estamos TÃO PRÓXIMOS... [voice trembling with anticipation]   [hysterical laughter mixed with rage] De resolver essa pergunta MALDITAMENTE PERTURBADORA! [insane laughter echoing]
+
+22 (GUILHERME): [scoffs, dripping sarcasm] Sempre achei "curioso"? [bitter laugh] Que ele dizia: "Qual natureza?" [voice rising with indignation] A natureza real pra ele não é essa ordem BOAZINHA que pregamos! [furious emphasis] E você está CERTO nisso! [guttural intensity, pacing slows] Ela é caótica... [dramatic pause] INDIFERENTE... [derisive snort, contemptuous] Cheia de força BRUTA! [building rage, voice trembles] Até CRUEL! [long exhale, then explosive shout] Só olhar a CADEIA ALIMENTAR! [hollow laugh, resigned tone] A natureza é cruel... [shattering emphasis] MUUITO CRUEL... 
+
+23 (ALBUJAMA): [hysterical laugh fading to whisper] A beleza? [dramatic pause] Talvez esteja justamente NESSA CONFUSÃO TODA! [frustrated groan, accelerating pace] Buscar a verdade? [bitter chuckle] Talvez nem seja o ponto central... [indignant shout, pounding fist] PROVOCAR e tirar de você isso? [voice trembling with excitement] Foi BRUTALMENTE INTERESSANTE, Guilherme! [overwhelmed sigh] [voice breaking] Toda essa complexidade... [awed pause] Todas ESSAS FILOSOFIAS e SUA filosofia... [resigned tone, bitter laugh] O valor da vida? [frustrated sigh] Talvez tá na própria BUSCA... [building intensity, guttural emphasis] E encarar essa atenção que você falou! Aceitar que NÃO TEM GARANTIA NENHUMA! [explosive shout] [derisive snort] Que a FALTA faz parte do JOGO! [exasperated sigh, sarcastic] Então... [mocking whisper] sei lá... [philosophical weight, slow deliberate] Minha frase seria... [existential pause] [voice dripping irony, then sudden intensity] "SÓ SEI que concordo com SÓCRATES!" [hollow laugh escalating to mania] "Se ele não sabe... [mocking tone] eu MUITO MENOS AINDA!"
+
+24 (GUILHERME): [scathing tone, derisive snort] Então, viver de verdade para Nietzsche? [bitter laugh escalating] Era o OPOSTO do estóico! [passionate intensity, pounding fist] Era AVALIAR! PREFERIR! TER PAIXÕES FOGOSAS! [furious shout, voice breaking] AFIRMAR A VIDA APESAR DO CAOS! [slow deliberate pace, dripping contempt] E não tentar ficar... [dramatic pause] INDIFERENTE COMO A NATUREZA! [frustrated groan, exasperated sigh] Só que ainda... [voice trembling] FALTA PROPÓSITO! [challenging tone, sarcastic whisper] Você acha que TEM propósito, Albujama? [maniacal laugh fading to silence]
+
+25 (ALBUJAMA): 	[hollow laugh escalating to rage] Eu não tenho propósito, garoto? [bitter chuckle] [voice trembling with fury, slamming fist] Sou um VELHO JOGADO NO MUNDO! [mocking tone, derisive snort] E você? [maniacal laughter abruptly cutting to silence]
+
+26 (GUILHERME): A ideia de achar sentido no mundo é interessante, muitos filósofos começaram argumentando que era "amando" ativamente o nosso próprio destino, que convenhamos é mesquinho da parte deles dizer isso porque o destino de muitos na época eram ser escravos, uma grande de uma merda. Por isso o Amor Fati é tão difícil. Eu poderia consolidar a resposta da sua pergunta em uma frase apenas Albujama, pode ser?
+
+27 (ALBUJAMA): Como seria essa frase garoto?
+
+28 (GUILHERME): "Viver é saber dançar entre o caos e a cada escolha de cada instante."
+
+29 (ALBUJAMA): Frase poderosa hein. [pause] [silk]
+
+30 (ALBUJAMA): [cheerful, building sarcasm] Então fica a pergunta no ar, né? [dramatic pause][voice rising, indignant] Para você, nosso telespectador! [frustrated groan]Tivemos aqui Guilherme Alberti — pensador, mestre em filosofia [scathing tone, accelerating pace]Que trouxe os pensadores mais INFLUENTES da sociedade... [bitter laugh]E seu próprio pensamento RADICAL![sudden intensity, pounding fist]TUDO ESTÁ CONECTADO![mocking whisper, leaning in]E aí? [challenging shout]Você ENCARRA essa provocação?[furious pace, voice trembling]Consegue pensar em "Que vida vale a pena ser vivida"? [derisive snort]Não só pra VOCÊ — mas como discutimos AQUI! [exasperated sigh, then cold intensity] E pra quem tá ouvindo... [dramatic pause]Deixamos uma PROVOCAÇÃO FINAL! [bitter laugh escalating] Algo que todas essas ideias SUGEREM, né? [rhetorical whisper]Se juntarmos Nietzsche, Heidegger, Lacan... [voice breaking with rage] Será que você é capaz de ser AUTÊNTICO? [scoffs] De ENCARAR O ABISMO? [guttural emphasis, slams fist] AMAR TUDO COMO É?Aceitar suas limitações? [contemptuous pause]Seu DESTINO?[explosive shout, echoing]E SER UMA PESSOA AUTÊNTICA? [hollow laugh fading to resignation] É como sempre digo... [softly]As perguntas são MAIS IMPORTANTES que as respostas...[contained rage, whispered] Guilherme... [long pause] Obrigado por ter vindo.
+
+31 (GUILHERME): O prazer é todo meu Albujamra, até mais
+
+32 (ALBUJAMA): Até mais garoto!

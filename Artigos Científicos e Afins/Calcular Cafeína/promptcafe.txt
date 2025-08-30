@@ -1,0 +1,59 @@
+OBJETIVO PRINCIPAL: Criar um roteiro de redução gradativa de cafeína (café normal → descafeinado) para evitar abstinência (cefaleia/enxaqueca), com cálculos precisos baseados em:  
+- Quantidade média de cafeína que causa abstinência (Pesquisar em artigos renomados pubmed springer e de alto impacto)
+- Densidade do café e conversão ml → mg  
+- Limiar de dependência e cafeína residual no descafeinado  
+- Pesquisar sobre a interface do HiCoffee e como funciona e como cadastrar cafés cálculados aqui por esta pesquisa (café filtrado/descafeinado)  
+
+---  
+INSTRUÇÕES ESTRUTURADAS:  
+1. CALCULAR MASSA DE CAFÉ (mg) POR COLHER:  
+   - Fórmula: `massa (mg) = volume (ml) × densidade (g/ml) × 1000`  
+     - Densidade do café moído: 0.4 g/ml (fonte: [SCA](https://www.sca.coffee/))  
+     - Exemplo colher vermelha (15 ml):  
+       `15 ml × 0.4 g/ml × 1000 = 6.000 mg`  
+   - Tabela de referência:  
+     | Cor       | Volume (ml) | Massa café (mg) |  
+     |-----------|-------------|-----------------|  
+     | Vermelho  | 15          | 6.000           |  
+     | Amarelo   | 7.5         | 3.000           |  
+     | Azul      | 5           | 2.000           |  
+     | Verde     | 2.5         | 1.000           |  
+     | Laranja   | 1.25        | 500             |  
+
+2. DETERMINAR LIMIAR DE DEPENDÊNCIA E ABSTINÊNCIA:  
+   - Mínimo para abstinência: 100 mg/dia (fonte: [NLM](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4462044/))  
+     - Sintomas: Cefaleia, fadiga, irritabilidade após 12-24h sem consumo.  
+   - Meta segura: ≤ 50 mg/dia (reduz risco de abstinência).  
+
+3. CALIBRAR CAFÉ DESCAFEINADO (LAVADO A ÁGUA):  
+   - Cafeína residual: 1% (ex: 6.000 mg café → 60 mg cafeína/colher vermelha).  
+   - Cálculo por dose:  
+     `cafeína (mg) = massa café (mg) × 0.01`  
+   - Risco de acumulação:  
+     - 4 xícaras (4 colheres vermelhas) = 240 mg cafeína → acima do limiar de abstinência!  
+
+4. ROTEIRO DE REDUÇÃO GRADUAL (4 SEMANAS):  
+   | Semana | Proporção normal:descafeinado | Cafeína/dose* (mg) | Dose máxima/dia |  
+   |--------|-------------------------------|--------------------|-------------------|  
+   | 1      | 3:1                           | 45                 | 4 xícaras (180 mg)|  
+   | 2      | 1:1                           | 30                 | 3 xícaras (90 mg) |  
+   | 3      | 1:3                           | 15                 | 3 xícaras (45 mg) |  
+   | 4      | 0:1 (100% descafeinado)       | 6                  | 8 xícaras (48 mg) |  
+   \*Baseado na colher vermelha (15 ml); Mantém cafeína < 100 mg/dia.  
+
+5. INTEGRAR COM HICOFFEE (CONFIGURAÇÃO MANUAL):  
+   - Problema: App não registra café filtrado/descafeinado.  
+   - Solução:  
+     - Criar um "café personalizado" com:  
+       - Nome: *Descafeinado Filtrado (1% cafeína)*  
+       - Parâmetros:  
+         ```  
+         Volume líquido: 150 ml (por xícara)  
+         Cafeína: [massa café em mg] × 0.01  
+         ```  
+     - Exemplo: 6.000 mg café → 60 mg cafeína (registrar manualmente).  
+
+6. FATORES CRÍTICOS PARA EVITAR ABSTINÊNCIA:  
+   - Redução máxima: Diminua 25% da cafeína/semana (ajuste conforme sintomas).  
+   - Se surgir cefaleia: Aumente temporariamente a proporção de café normal em 10%.  
+   - Hidratação: Consuma 500 ml água extra/dia para compensar efeitos diuréticos.  

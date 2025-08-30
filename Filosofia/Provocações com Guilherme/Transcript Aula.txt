@@ -1,0 +1,70 @@
+A aula de Introdução ao Aprendizado Profundo, ministrada pelo Professor Mestre Pedro, foca em aprofundar os conhecimentos em modelos complexos para tarefas desafiadoras, como o trabalho com imagens, séries temporais e textos, que possuem maior complexidade de dados em comparação a estruturas tabulares comumente encontradas na indústria. A disciplina é uma continuação da matéria de Aprendizado de Máquina, ministrada pelo Professor Rodolfo, onde os alunos já devem ter tido contato com conceitos mais simples de treinamento, avaliação e desempenho de modelos.
+
+### Metodologia Didática do Professor Pedro
+
+A didática do Professor Pedro se baseia em uma estrutura semanal com diversos recursos e formas de avaliação:
+
+*   **Estrutura e Materiais:**
+    *   A cada semana, um novo tópico é abordado.
+    *   O curso disponibiliza **videoaulas gravadas** que oferecem uma visão geral do conteúdo.
+    *   A **apostila da disciplina** complementa as videoaulas, apresentando o assunto de forma mais completa e detalhada, embora ainda resumida para facilitar a leitura.
+    *   Para quem busca aprofundamento, há uma seção de **material suplementar** com links para vídeos, apostilas e livros.
+*   **Avaliação e Atividades Práticas:**
+    *   A disciplina possui **quatro atividades semanais** na forma de questionários (múltipla escolha, verdadeiro ou falso, completar), que correspondem a **70% da nota final**.
+    *   A partir da segunda semana, são introduzidas **atividades práticas**, que representam os **30% restantes da nota**.
+    *   As atividades práticas consistem em roteiros que exigem a modificação de códigos fornecidos pelo professor. O código base é explicado em aula, e a tarefa do aluno é adaptá-lo para um novo contexto, *dataset* ou tarefa.
+    *   **O foco da avaliação nas atividades práticas não é apenas o resultado, mas a capacidade do aluno de adaptar o exemplo dado a uma nova situação**, com a maior parte da nota vindo da demonstração dessa adaptação e da apresentação dos passos, execuções e observações no *notebook*.
+    *   **Instruções Cruciais para Submissão:** As atividades práticas devem ser feitas no **Google Collab** e o *notebook* enviado deve ser configurado com **acesso público (modo *viewer*)**, e não restrito ao domínio da UFV. Isso é essencial para que o professor, que é externo à universidade, possa corrigir o material.
+*   **Prazos e Suporte:**
+    *   Todas as atividades possuem uma data limite de entrega até o final do curso (aproximadamente 8 de julho), mas o envio permanece disponível mesmo após essa data. Contudo, o professor recomenda **não atrasar a entrega** para garantir uma correção mais ágil e evitar problemas de comunicação.
+    *   Dúvidas podem ser tiradas durante os **encontros síncronos** ou através do **fórum da disciplina**. O professor também pode ser contatado por e-mail.
+    *   Há **monitoria disponível**, com o monitor Alexandre, cujo horário (provavelmente às quartas-feiras) será divulgado na página da disciplina.
+
+### Fundamentos do Aprendizado Profundo
+
+A aula discorre sobre a evolução e os conceitos centrais do aprendizado profundo:
+
+*   **IA, Aprendizado de Máquina e Aprendizado Profundo:**
+    *   **Inteligência Artificial (IA)** é uma área vasta e ampla, que abrange programas com a capacidade de aprender e raciocinar como humanos, mas levanta discussões filosóficas sobre o que de fato isso significa.
+    *   Dentro da IA, encontra-se o **Aprendizado de Máquina** (*Machine Learning*), que se concentra em algoritmos capazes de aprender a partir de dados, sem serem explicitamente programados com regras condicionais. É um processo puramente dirigido por dados.
+    *   O **Aprendizado Profundo** (*Deep Learning*) é uma subárea do Aprendizado de Máquina, dedicada especificamente ao estudo de arquiteturas e modificações de **Redes Neurais Artificiais (RNAs)**. Essas redes buscam mimetizar ou emular como o cérebro humano processa informações.
+*   **Redes Neurais Artificiais (RNAs):**
+    *   As RNAs são arquiteturas com camadas de neurônios artificiais, incluindo uma ou mais **camadas ocultas**.
+    *   Cada neurônio recebe múltiplas entradas, realiza uma **combinação linear** delas (multiplicando-as por **pesos** e somando-as), e então aplica uma **função de ativação** para gerar uma saída.
+    *   Os **pesos** são coeficientes numéricos que representam a intensidade das conexões entre neurônios e são o que o modelo modifica durante o treinamento para aprender. Eles são salvos após o treinamento para uso posterior do modelo.
+    *   A diferença entre uma RNA "normal" e uma **Rede Neural Profunda** é o **número de camadas ocultas**, que pode chegar a 10, 20, 30 ou mais. Isso aumenta exponencialmente o número de **parâmetros** (pesos) a serem ajustados.
+*   **Desafios no Treinamento de Modelos Profundos:**
+    *   **Problemas de Gradientes:** O treinamento de modelos profundos é baseado no **gradiente descendente**, que retropropaga o erro para ajustar os pesos. Contudo, pode ocorrer:
+        *   **Gradientes Explosivos:** O valor do gradiente se torna muito grande, levando a atualizações bruscas e prejudiciais nos pesos, fazendo o treinamento divergir.
+        *   **Gradientes Dissipados (ou Esvanecentes):** O valor do gradiente se torna muito pequeno, resultando em atualizações mínimas ou nulas dos pesos, o que "congela" o treinamento e impede o modelo de aprender.
+        *   Esses problemas podem ser influenciados por erros de cálculo, aproximações ou a escolha da **função de ativação** (e.g., Sigmoide pode levar a gradientes dissipados em suas "caudas").
+    *   **Velocidade de Treinamento:** Modelos complexos exigem muitos dados e um tempo de treinamento considerável. O treinamento é feito em **minilotes** e requer várias "épocas" (varreduras completas do conjunto de dados) para convergir.
+    *   **Disponibilidade Reduzida de Dados:** É o **maior problema** em aprendizado profundo, pois raramente há volume de dados suficiente para treinar modelos tão complexos, exceto para grandes empresas de tecnologia.
+    *   **Sobreajuste (*Overfitting*):** Quando o modelo é muito poderoso e o conjunto de dados é pequeno ou pouco variado, o modelo memoriza o dado de treinamento (incluindo o ruído), em vez de aprender padrões generalizáveis. Isso faz com que o modelo tenha um desempenho ruim em dados novos. Por outro lado, o **subajuste** ocorre quando o modelo não é poderoso o suficiente para a tarefa.
+*   **Estratégias para Mitigar Desafios:**
+    *   **Inicialização dos Pesos:** Técnicas como Glorot Uniforme ou Glorot Xavier podem ajudar a evitar problemas de gradiente.
+    *   **Funções de Ativação:** O uso de funções como **ReLU** é preferível à Sigmoide em muitos casos, pois evita regiões de saturação com gradiente zero.
+    *   **Normalização por Lotes (*Batch Normalization*):** Melhora a estabilidade do treinamento ao normalizar os valores de saída de cada camada.
+    *   **Modelos Pré-Treinados e Transferência de Aprendizado:** Utilizar modelos já treinados em grandes *datasets* (como o VGG 16/19 do Google) para tarefas gerais e adaptá-los para tarefas similares ou mais específicas, reaproveitando o conhecimento pré-existente.
+    *   **Otimizadores Eficientes:** Otimizadores que consideram o "momento" (direção dos passos anteriores) podem acelerar a convergência, ajustando a intensidade das atualizações dos pesos.
+    *   **Técnicas de Regularização:** Dificultam o processo de treinamento para que o modelo não memorize os dados:
+        *   **Dropout:** Cada neurônio tem uma probabilidade de ser "desligado" aleatoriamente durante o treinamento, forçando a rede a aprender de forma mais robusta e reduzindo a probabilidade de sobreajuste.
+
+### Arquiteturas Específicas em Aprendizado Profundo
+
+Para solucionar problemas complexos e contornar as limitações das redes totalmente conectadas (que geram muitos parâmetros para dados como imagens e séries temporais), foram desenvolvidas arquiteturas especializadas. Essas arquiteturas buscam diminuir o número de parâmetros focando em dois conceitos:
+
+*   **Compartilhamento de Parâmetros:** Reutilização de pesos em diferentes partes da rede ou para diferentes porções dos dados de entrada.
+*   **Esparcidade:** Criação de redes com menos conexões (menos parâmetros).
+
+No curso, serão abordadas as seguintes arquiteturas principais:
+
+*   **Redes Convolucionais (CNNs):** Consideradas a arquitetura mais importante em Aprendizado Profundo, são usadas principalmente para **imagens** (e sinais). Elas empregam "janelinhas" (filtros) que deslizam sobre a imagem, compartilhando os mesmos pesos, o que drasticamente reduz o número de parâmetros.
+*   **Redes Neurais Recorrentes (RNNs):** Utilizadas principalmente para lidar com **sinais temporais** e **textos**, onde a ordem dos dados é crucial. Embora o treinamento seja mais iterativo e demorado que outras arquiteturas, as RNNs são geralmente mais fáceis de treinar em computadores pessoais do que modelos como o Transformer. As implementações mais comuns utilizam **LSTM**.
+*   **Autoencoders:** Modelos curiosos usados para **geração de dados sintéticos** e **diminuição de ruído** em imagens. Eles são treinados para reconstruir o próprio dado de entrada. São compostos por um **codificador** (que compacta a informação) e um **decodificador** (que a reconstitui).
+
+A **Transferência de Aprendizado** e o **Fine-Tuning** serão um tópico importante no final do curso, aproveitando modelos pré-treinados.
+
+### Perspectiva da Indústria
+
+O Professor Pedro, com anos de experiência em ciência de dados, destaca que, no Brasil, o uso de aprendizado profundo na indústria ainda não é tão difundido quanto o de modelos mais simples, principalmente devido aos altos requisitos de dados e poder computacional. No entanto, ter esse conhecimento é um **grande diferencial** e será cada vez mais valorizado no futuro, impulsionado pelo crescimento de modelos de texto (LLMs). Fora do Brasil, aplicações de visão computacional (ex: identificação de produtos, posicionamento em gôndolas) e *chatbots* são mais comuns, impulsionadas por incentivos à inovação e startups.

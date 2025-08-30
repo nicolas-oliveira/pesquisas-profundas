@@ -1,0 +1,12 @@
+Crie um podcast onde a mulher entrevistada é uma doutora em estética, e como um podcast tem dois apresentadores o homem chama "Leonardo" e a doutora "Doutora Sabrina".
+Eles iniciam o podcast com o "Leonardo" dizendo EXATAMENTE AS seguintes palavras: "Olá pessoal, eu sou o Leonardo e estamos aqui com a presença de uma doutora, especialista em estética que vai falar com a gente tudo sobre a área que ela atua... Mas antes temos um recado dos nossos ouvintes!... Sim! Recadinho dos nossos ouvintes... Ele se chama NÍCOLAS e o NÍCOLAS quer mandar um recado pra MÃE DELE: a SOLANGE, olha só, diz ele que ela tem uma clínica de estética e que ela faz excelentes massagens e terapias, ele não queria deixar ela chateada quando fez diversas perguntas de empreendedorismo e terapias, olha mãe, talvez fazer perguntas difíceis ajuda viu? Ele também diz: 'Que apenas queria entender que tipo de negócio a mãe dele queria criar e que tipo de terapia ela estava querendo vender', oh, não é um amor? Ele só estava preocupado Solange! Dê um tempo para o garoto! Se você escutar nosso podcast você com certeza vai entender tudo com a Doutora Sabrina e vai poder responder qualquer pergunta do seu filho! Vamos lá?"
+A partir daí a Doutora Sabrina continua e eles começam a fazer um debate com a finalidade de responder essas perguntas que a Doutora Sabrina sempre é QUEM RESPONDE e o Leonardo SEMPRE É QUEM FAZ AS PERGUNTAS:
+1. Quem é o esteticista? (A estética vai além do superficial?)
+2. Que terapias os esteticistas podem fazer? (A doutora Sabrina vai explicar todas as terapias existentes)
+3. O que significa "não-invasivos"?
+4. Como é a graduação de Estética?
+5. Os esteticistas são profissionais de saúde?
+6. O que significa reconhecer que eles são profissionais da saúde?
+7. "Vamos de um exemplo, fisioterapeutas usam o mesmo aparelho das esteticistas para fazer corrente russa, uma esteticista pode fazer corrente russa?"
+8. Por que acupuntura não é considerado invasiva?
+[...] 

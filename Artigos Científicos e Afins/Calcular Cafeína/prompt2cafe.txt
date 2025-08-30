@@ -1,0 +1,79 @@
+Objetivo: Calcular a massa de café e cafeína (em mg) para cada colher, determinando quantas colheres são necessárias para obter 100 mg de cafeína, com cálculos explícitos baseados em física básica.
+
+---
+
+### Instruções Estruturadas:
+
+1. **Calcular densidade do café moído (Passo físico):**
+   - Fórmula: 
+   
+   $$\rho = \frac{m}{V}$$
+   
+   (densidade = massa/volume)  
+   - Fontes: 
+     - _Journal of Food Engineering_ (valores médios para café filtrado: 0,25–0,45 g/ml)  
+     - Fatores críticos: compactação (±15%), granulometria (fina = +10% densidade)  
+   - Valor adotado: 
+   
+   $$0,38 \pm 0,06 \text{ g/ml}$$
+   
+   (média com margem de erro)  
+
+2. **Converter volume → massa de café (mg):**  
+   - Fórmula:  
+   
+   $$m_{\text{café}} = V_{\text{colher}} \times \rho_{\text{café}} \times 1000$$
+   
+   Exemplo para colher vermelha (15 ml):  
+   
+   $$m = 15 \times 0,38 \times 1000 = 5700 \text{ mg}$$
+
+3. **Calcular cafeína por colher:**  
+   - Dados científicos:  
+     - Concentração média de cafeína: 12 mg/g (fonte: USDA FoodData Central)  
+     - Fórmula:  
+     
+     $$m_{\text{cafeína}} = m_{\text{café}} \times 0,012$$
+     
+     Exemplo: 
+     
+     $$5700 \text{ mg} \times 0,012 = 68,4 \text{ mg}$$
+
+4. **Determinar colheres para 100 mg de cafeína:**  
+   - Fórmula: 
+   
+   $$n = \frac{100}{m_{\text{cafeína/colher}}}$$
+   
+   - Exemplo:  
+   
+   $$n_{\text{vermelho}} = \frac{100}{68,4} \approx 1,46 \rightarrow 1,5 \text{ colheres}$$
+
+5. **Quantidade ideal de água (Golden Ratio):**  
+   - Proporção: 1:16 (massa café : volume água)  
+   - Fórmula: 
+   
+   $$V_{\text{água}} = \frac{m_{\text{café}}}{1000} \times 16$$
+
+---
+
+### Tabela Final Obrigatória:
+
+| Cor       | Volume (ml) | Massa café (mg) | Cafeína (mg) | Colheres para 100 mg cafeína | Água (ml) |
+|-----------|-------------|-----------------|--------------|-----------------------------|-----------|
+| Vermelho  | 15          | 5700 ± 855      | 68,4 ± 10,3  | 1,5                         | 91,2      |
+| Amarelo   | 7,5         | 2850 ± 428      | 34,2 ± 5,1   | 2,9                         | 45,6      |
+| Azul      | 5           | 1900 ± 285      | 22,8 ± 3,4   | 4,4                         | 30,4      |
+| Verde     | 2,5         | 950 ± 143       | 11,4 ± 1,7   | 8,8                         | 15,2      |
+| Laranja   | 1,25        | 475 ± 71        | 5,7 ± 0,9    | 17,5                        | 7,6       |
+
+---
+
+### Exigências Críticas:
+
+- **Cálculos explícitos:** Mostrar passo a passo (em LaTeX) para pelo menos 2 cores.  
+- **Fontes primárias:**  
+  - Densidade: [Journal of Food Engineering, vol 78(4)]  
+  - Cafeína: [USDA FoodData Central ID: 171890]  
+- **Margens de erro:** Incluir variações de densidade (±15%) e cafeína (±15%).  
+- **Resposta direta:**  
+  Ex: _"Para 100 mg de cafeína: use 1,5 colheres vermelhas ou 17,5 laranjas"_

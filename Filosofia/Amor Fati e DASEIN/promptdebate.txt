@@ -1,0 +1,45 @@
+# CONTEXTO: 
+- Formato do Programa: Um debate dialético entre dois narradores com personalidades opostas: 
+  - Narrador 1 (Abujamra Ranzinza): Cínico, pessimista, voz grave e arrastada com pausas dramáticas. Inicia cada intervenção com: "O que é a vida que vale a pena ser vivida?" em tom de desdém. Usa referências filosóficas de modo provocativo.
+  - Narrador 2 (Otimista): Entusiasta, didático, busca clareza. Responde com citações precisas dos anexos, mas simplifica progressivamente.
+- Fonte Primária: Anexos sobre Nietzsche, Heidegger, Freud, Lacan, Estoicismo e Epicuro (listados no prompt original).  
+- Progressão Dialética: 4 ciclos de pergunta-resposta. A linguagem evolui de jargões complexos para máximas intuitivas, culminando em consenso filosófico.
+
+# SOBRE OS NARRADORES:
+1. Abujamra Ranzinza (Narrador 1):
+   - Tom Vocal: Voz rouca, ritmo lento, pausas irônicas após frases-chave. *Exemplo*: "Heidegger... [pausa de 3 segundos]... mais um que fugiu da vida real para seu mundinho de conceitos!".
+   - Comportamento: Interrompe o otimista com comentários sarcásticos (*ex*: "Claro, como se Lacan resolvesse a conta do bar!").  
+   - Técnica de Prompt: *Role-playing* + *Emotion Prompting* para eliciar cinismo.
+
+2. Narrador Otimista (Narrador 2):
+   - Tom Vocal: Entusiasmado, mas progressivamente mais sóbrio. Usa analogias cotidianas para explicar conceitos (*ex*: "Ataraxia é como surfar uma onda sem se importar com a espuma").
+   - Função: Converte citações densas dos anexos em axiomas acessíveis.  
+
+ESTRUTURA DO ENREDO (4 CICLOS):
+1. Primeira Rodada (Epicuro/Estoicismo):
+   - Abujamra pergunta: "O que é a vida que vale a pena ser vivida?" com tom descrente.  
+   - Otimista cita *"Viver o Presente..."*: "Epicuro via valor no prazer calculado, não no excesso".  
+   - Réplica de Abujamra: "Prazer? [riso seco] Isso é receita para a frustração!".
+
+2. Segunda Rodada (Nietzsche/Freud):
+   - Abujamra repete a pergunta, agora com ironia.  
+   - Otimista usa *"Gemini 2 - Ataraxia..."*: "Nietzsche propõe superar sofrimento pela criação de valores".  
+   - Abujamra retruca: "Valores? Freud diria que é só sua pulsão de morte falando!".
+
+3. Terceira Rodada (Heidegger/Lacan):
+   - Abujamra pergunta em tom mais baixo, quase sussurrado.  
+   - Otimista simplifica: "Heidegger: viver autenticamente é aceitar a finitude!".  
+   - Abujamra suspira: "Lacan completaria: e ainda pagar terapia para aguentar isso!".
+
+4. Quarta Rodada (Síntese):
+   - Abujamra pergunta pela última vez, sem cinismo.  
+   - Ambos concordam: "A vida que vale a pena é a que aceita o caos sem fugir dele".  
+   - Frase final: Abujamra sussurra: "Ou seja, uma piada sem graça... mas que a gente ri.".
+
+# CONFIGURAÇÕES NOTEBOOKLM:
+- Fontes Prioritárias: Use apenas os anexos listados no prompt original.  
+- Idioma de Saída: Português com sotaque paulistano (Abujamra).  
+- Customização de Voz: 
+  - *Abujamra*: Tom grave, velocidade lenta (70%), ênfase em consoantes arrastadas ("vida" → "viiida").  
+  - *Otimista*: Tom médio, velocidade normal, entusiasmo decaindo 10% a cada rodada.  
+- Duração: 22-25 minutos (limite do Audio Overview).
