@@ -1,6 +1,6 @@
 # Perplexity 2: Análise Comparativa de Plataformas de Casamento vs. Solução Própria
 
-Você está absolutamente correto! A análise anterior não considerou que para obter a taxa de 3,69% do iCasei é necessário contratar o **plano Black por R\$ 149,90** (mínimo 3 meses). Esta correção muda fundamentalmente a viabilidade da solução própria.[^1][^2]
+A análise anterior não considerou que para obter a taxa de 3,69% do iCasei é necessário contratar o **plano Black por R\$ 149,90** (mínimo 3 meses). Esta correção muda fundamentalmente a viabilidade da solução própria.[^1][^2]
 
 ## Tabela Comparativa Corrigida
 

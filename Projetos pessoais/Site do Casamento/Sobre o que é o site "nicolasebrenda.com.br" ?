@@ -1,0 +1,110 @@
+Sobre o que é o site "nicolasebrenda.com.br" ?
+
+O site nicolasebrenda.com.br é um site de casamento parecido com as funcionalidades oferecidas nos sites Casar.com e outros. Porém feito com MedusaJS, NestJS, NextJS e ShadCN com Tailwind.
+
+Para um site de casamento, assumimos portanto que tal site é sobre um evento que irá ocorrer em uma data.
+
+Por ser um site de casamento, também temos uma quantidade limitada de pessoa no evento.
+
+Temos local e data do evento. Isso é o principal ponto do site e compõe sua página Home.
+
+O primeiro elemento de contato do "Convidado" é com o convite digital que faz um direcionamento fluído em um pdf para um link clicável para o site "nicolasebrenda.com.br"
+
+Logo após isso, com um timer de 3 a 4 segundos um dialog aparece oferecendo ao "Convidado" se identificar. A partir daí a jornada é sobre a "Jornada de Identificação do Cliente".
+
+O site é primeiro prototipado no figma com desenhos e jornadas semelhantes ao SHADCN além de todas as jornadas de identificação e RSVP (Confirmação) do "Convidado".
+
+Site "nicolasebrenda.com.br" contém a página "Manual dos Convidados" que contém além do Dress Code para todos os convidados, a foto de todos os padrinhos, madrinhas e pais do evento. No final conta com hotéis da cidade e os aplicativos para deslocar na cidade.
+
+# Prototipagem da página Home (Inicial)
+Prototipagem no figma com os desenhos e componentes mais comuns da página inicial
+
+# (Manual do Convidado) Prototipagem Recomendação de Hotéis
+Desenho no figma com os detalhes da página contendo os hotéis mais próximos
+## Lista de Hotéis Próximos
+### Presidente hotel
+Praça Monsenhor Messias Braganca, 215 - Centro, Passos - MG, 37900-084
+Possivel encontrar pelo www.booking.com, www.trivago.com.br  ou pelo número  (35) 3521-6388  
+### Class Hotel Passos
+Av. Comendador Francisco Avelino Maia, 3661 - Canjeranus, Passos - MG, 37900-140 é possivel encontrar vagas pelo www.booking.com e pelo número (35) 3522-3333  Hotel Mohallem
+
+Av. Comendador Francisco Avelino Maia, 4202, Passos, CEP 37902-367, Brasil
+Possível encontrar pelo www.booking.com , www.trivago.com.br  Mariachis Hotel
+551 Avenida Juca Stockler, Passos, CEP 37900-105, Brasil
+Possível encontrar pelo  www.booking.com,  www.trivago.com.br  
+### Hotel cidade
+Av. Comendador Francisco Avelino Maia, 3560, Passos, CEP 37900-001
+Pode ser encontrado pelo   www.booking.com,  www.trivago.com.br
+
+# (Manual do Convidado) Prototipagem do Esporte Fino
+Parte no qual explicamos brevemente o que é esporte fino e sugerimos as roupas no dia do evento.
+
+# (Manual do Convidado) Prototipagem de "Como se locomover na cidade"
+Conteúdo explicando para os convidados que não são de Passos MG quais aplicativos utilizarem para se caso não tiverem veículos para se locomover
+## Transporte
+Em passos, o serviço de "Uber" é feito pelos seguintes aplicativos:
+### iupe!  
+https://play.google.com/store/apps/details?id=br.com.iupe.passenger.drivermachine  
+https://apps.apple.com/br/app/iupe/id1461500141
+
+### Ubiz Car Brasil  
+https://play.google.com/store/apps/details?id=br.com.ubizcarbahia.passenger.drivermachine  
+https://apps.apple.com/br/app/ubiz-car-brasil/id1486657267
+
+## Manual dos Convidados
+### 3.1. Padrinhos e das madrinhas:
+> “O momento mais importante da nossa vida fica ainda mais completo quando compartilhamos com pessoas especiais. Como padrinhos e madrinhas de casamento, sua missão é visitar, nos aconselhar, nos incentivar e principalmente se alegrar conosco nesse dia.”
+### 3.2. Padrinhos e Madrinhas:
+
+Para ficarem mais elegantes neste dia, gostaríamos que vestissem terno preto, com uma gravata roxa.
+Colocar a foto dos padrinhos e das madrinhas (Com nome embaixo)
+### 3.3. Manual dos Pais > Mudar para fotos dos pais
+Não temos palavras para agradecer o que fizeram por nós ! Cada noite sem dormir, tudo que abriram mão para nos proporcionar o melhor e nos tornar quem somos hoje.
+Mães: Para ficarem ainda mais lindas nesse momento especial, gostaríamos que usassem um vestido na tonalidade verde.
+Inspiração
+Pais: Para ficarem mais elegantes, gostaríamos que se vestissem com um traje preto e com a gravata verde inspiração  colocar paleta no tom verde
+### 3.4. Lista de Hotéis Próximos
+Presidente hotel
+Praça Monsenhor Messias Braganca, 215 - Centro, Passos - MG, 37900-084
+Possivel encontrar pelo www.booking.com, www.trivago.com.br  ou pelo número  (35) 3521-6388  Class Hotel Passos
+Av. Comendador Francisco Avelino Maia, 3661 - Canjeranus, Passos - MG, 37900-140 é possivel encontrar vagas pelo www.booking.com e pelo número (35) 3522-3333  Hotel Mohallem
+Av. Comendador Francisco Avelino Maia, 4202, Passos, CEP 37902-367, Brasil
+Possível encontrar pelo www.booking.com , www.trivago.com.br  Mariachis Hotel
+551 Avenida Juca Stockler, Passos, CEP 37900-105, Brasil
+Possível encontrar pelo  www.booking.com,  www.trivago.com.br  Hotel cidade
+Av. Comendador Francisco Avelino Maia, 3560, Passos, CEP 37900-001
+Pode ser encontrado pelo   www.booking.com,  www.trivago.com.br
+
+### 3.5. Transporte
+Em passos, o serviço de uber é feito pelos seguintes aplicativos:
+
+iupe!  
+https://play.google.com/store/apps/details?id=br.com.iupe.passenger.drivermachine  https://apps.apple.com/br/app/iupe/id1461500141  
+
+Ubiz Car Brasil  
+https://play.google.com/store/apps/details?id=br.com.ubizcarbahia.passenger.drivermachine  
+https://apps.apple.com/br/app/ubiz-car-brasil/id1486657267
+
+# Prototipagem da Jornada de Identificação do Cliente
+Prototipagem no figma da Jornada de identificação do cliente através do número de telefone
+
+
+# (Manual do Convidado) Prototipagem "Quem são os pais, madrinhas e padrinhos?"
+Página contendo as fotos dos pais, mães, madrinhas e padrinhos. Uma breve descrição. Fotos com exemplos de como devem se vestir. Paleta de cor sugerindo tons e sub tons.
+- [x] Fazer o texto para os pais
+- [x] Fazer o texto para as madrinhas
+- [x] Fazer o texto para os padrinhos
+- [x] Criar fotos com o vestido correto para as madrinhas
+- [x] Criar fotos com o vestido e o terno correto para os pais
+- [x] Criar fotos para os padrinhos sinalizando a gravata e o terno
+- [x] Fazer as paletas de cores
+
+# Lista de Presentes
+Ao clicar na aba "Lista de presentes" o usuário será direcionado para uma página com uma lista de presentes com foto, nome do presente, preço, botão de adicionar ao carrinho e uma side bar com a lista de produtos adicionados (Carrinho). Dentro do carrinho tem o botão "Finalizar a compra" que direciona o cliente para o pagamento em cartão de crédito ou pix
+- [x]  Criar o template do MedusaJS
+- [ ]  Executar o projeto template do MedusaJS
+- [ ]  Entender a modularidade do MedusaJS
+- [ ]  Copiar o estilo do MedusaJS para uma página adm  para criação de Convidados
+- [x]  Copiar o código criado pelo v0.app 
+- [ ]  Executar o projeto do v0.app 
+

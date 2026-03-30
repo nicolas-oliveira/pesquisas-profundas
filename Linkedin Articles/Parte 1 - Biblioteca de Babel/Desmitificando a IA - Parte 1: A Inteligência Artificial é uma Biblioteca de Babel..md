@@ -74,7 +74,7 @@ Agora a história é assim:
 
 # Era uma vez...
 
-![Group 14.png](/home/nicolas/Downloads/Group%2014.png)
+![Group 14.png](/home/nicolas/Downloads/Pesquisas%20Profundas/Linkedin%20Articles/Parte%201%20-%20Biblioteca%20de%20Babel/Group%2014.png)
 
 Você caminha pela rua e percebe uma construção que não estava ali ontem, assutado e curioso, percebe que é impossível alguma construção daquele tamanho aparecer da noite pro dia. Como se ela te chamasse pra dentro você decide subir as escadas e entrar.
 
@@ -210,7 +210,9 @@ Pense nas respostas improváveis que a secretária poderia te dar na nossa reima
 Essa semelhança fica mais clara ainda quando pensamos em gerar imagem com uns modelos do tipo os Denoising Diffusion Implicit Models (DDIMs), que o Jiaming Song e outros estudaram. Esses modelos começam com um monte de ruído e vão "limpando" essa bagunça até virar uma imagem. É como se eles estivessem buscando, meio que no escuro, dentro de todas as imagens 
 possíveis, até achar uma que faça sentido. (*Percebe como parece o conto?*)
 
-![image.png](/home/nicolas/Downloads/image.png)
+
+
+![image.png](/home/nicolas/Downloads/Pesquisas%20Profundas/Linkedin%20Articles/Parte%201%20-%20Biblioteca%20de%20Babel/image.png)
 
 [Link para o artigo original da imagem: arxiv.org/abs/2010.02502](https://arxiv.org/abs/2010.02502)
 

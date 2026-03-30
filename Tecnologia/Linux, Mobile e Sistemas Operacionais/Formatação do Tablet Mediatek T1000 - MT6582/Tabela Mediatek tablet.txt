@@ -1,0 +1,16 @@
+Informações Essenciais Extraídas
+| Componente         | Valor                                            |
+| ------------------ | ------------------------------------------------ |
+| **Modelo**         | Jlinksz T1000                                    |
+| **Fabricante**     | Jlinksz (genérico chinês)                        |
+| **Android Versão** | 4.4.2 KitKat (real) / 5.1 (reportado falsamente) |
+| **SoC**            | MediaTek MT6582 / MT6592T (inconsistência)       |
+| **CPU**            | ARM Cortex-A7 ARMv7 32-bit                       |
+| **Memória (RAM)**  | 3,871,264 kB (≈3.87 GB)                          |
+| GPU Vendor         | ARM                                              |
+| **GPU Modelo**     | Mali-400 MP                                      |
+| GPU API            | OpenGL ES 2.0                                    |
+| **Placa/Board**    | T1000                                            |
+| **Kernel**         | ALPS.KK1.MP1.V2.10 (baseado em Linux 3.10.x)     |
+| **Build Date**     | 2017-12-13                                       |
+

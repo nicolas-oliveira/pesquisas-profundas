@@ -1,4 +1,4 @@
-# Gemini: Análise Competitiva do Mercado de Plataformas Digitais para Casamentos no Brasil
+# Gemini 2: Análise Competitiva do Mercado de Plataformas Digitais para Casamentos no Brasil
 
 ## Seção 1: Panorama Estratégico do Setor Nupcial Digital no Brasil
 

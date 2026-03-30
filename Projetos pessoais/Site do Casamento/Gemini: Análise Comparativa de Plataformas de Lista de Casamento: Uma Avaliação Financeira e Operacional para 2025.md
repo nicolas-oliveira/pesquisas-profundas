@@ -1,4 +1,4 @@
-# Gemini: Análise Comparativa de Plataformas de Lista de Casamento: Uma Avaliação Financeira e Operacional para 2025
+# Gemini 1: Análise Comparativa de Plataformas de Lista de Casamento: Uma Avaliação Financeira e Operacional para 2025
 
 ## Sumário Executivo
 

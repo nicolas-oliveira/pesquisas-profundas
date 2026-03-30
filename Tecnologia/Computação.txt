@@ -1,0 +1,95 @@
+```
+
+1. Estrutura de Dados e Algoritmos (EDA)
+2. Arquitetura de Computadores (AC)
+3. Fundamentos da Linguagem de Programação (FLP)
+4. Banco de Dados (BD)
+    └─ 4.1. Big Data
+5. Interação Humano-Computador (IHC)
+6. Fundamentos Matemáticos para Computação (FMC)
+    ├─ 6.1. Cálculo Discreto (Pré-cálculo)
+    |  ├─ 6.1.1. Álgebra
+    |  ├─ 6.1.2. Geometria
+    |  ├─ 6.1.3. Funções Seno, Cosseno
+    |  └─ ...
+    ├─ 6.2. Cálculo 1
+    |  ├─ 6.2.1. Cálculo Diferencial
+    |  └─ 6.2.2. Integrais
+    ├─ 6.3. Cálculo 2 (Integrais e Séries)
+    ├─ 6.4. Cálculo 3 
+    |  ├─ 6.4.1. Geometria Analítica
+    |  ├─ 6.4.2. Gradientes
+    |  └─ 6.4.3. Derivadas direcionais
+    ├─ 6.5. Pesquisa Operacional (PO)
+    └─ 6.6. Álgebra Linear
+7. Redes de Computadores (RC)
+    ├─ 7.1. Teoria dos Grafos
+    ├─ 7.2. Arquitetura de Redes
+    ├─ 7.3. Protocolos
+    ├─ 7.4. Roteamento
+    ├─ 7.5. Transmissão de Sinais
+    ├─ 7.6. Segurança de Redes 
+    └─ 7.7. Camada física e Enlace 
+8. Sistemas Operacionais (SO)
+    ├─ 8.1. Gerenciamento de Processos
+    ├─ 8.2. Gerenciamento de Memória
+    ├─ 8.3. Gerenciamento de Entrada e Saida (E/S)
+    ├─ 8.4. Sistema de arquivos
+    ├─ 8.5. Sistemas Distribuídos (PDC)
+    │  └─ 8.5.1. Computação Distribuída (PDC)
+    └─ 8.6. Computação em Nuvem
+9. Segurança da Informação (SEC)
+    ├─ 9.1. Criptografia
+    ├─ 9.2. Autenticação
+    ├─ 9.3. Proteção de Dados
+    └─ 9.4. Políticas de Segurança e Compliance
+10. Inteligência Artificial (IA)
+    ├─ 10.1.Fundamentos Matemáticos para Inteligência Artificial
+    │	├─ 10.1.1. Álgebra Linear
+    │	├─ 10.1.2. Probabilidade e Estatística
+    │	├─ 10.1.3. Cálculo Bayesiano
+    │	└─ 10.1.4. Modelos Ocultos de Markov
+    ├─ 10.2. Machine Learning (ML)
+    │   └─ 10.2.1. Deep Learning (DL)
+    ├─ 10.3. Processamento de Linguagem Natural (NLP)
+    ├─ 10.4. Inteligência Artificial Convolucional (Conv. AI)
+    └─ 10.5. Inteligência Artificial Generativa (LLM) - É a intersecção entre NLP, ML e DL. Porém para funcionar aqui colocamos como sub-área.
+11. Ética na Tecnologia (ET)
+12. Engenharia de Software (ES)
+    ├─ 12.1. Engenharia de Requisitos
+    ├─ 12.2. Arquitetura e Projeto de Software
+    │   ├─ 12.2.1. Design Patterns
+    │   └─ 12.2.2. Modelagem UML
+    ├─ 12.3. Teste de Qualidade do Software
+    ├─ 12.4. Manutenção e Evolução do Software  
+    ├─ 12.5. Gestão de Projetos de Software
+    ├─ 12.6. Métodos Ágeis 
+    └─ 12.7. Fundamentos do Desenvolvimento de Sofware (FDS)
+13. Sistemas de Informação (SF)
+    ├─ 13.1. Teoria Geral de Sistemas
+    ├─ 13.2. Pensamento Sistêmico
+    ├─ 13.3. Definição de Sistemas
+    ├─ 13.4. Tipos de Sistemas
+    ├─ 13.5. Abordagem Sistêmica
+    ├─ 13.6. Enfoque Sistêmico
+    ├─ 13.7. Sistemas de Informação
+    ├─ 13.8. Subsistemas
+    ├─ 13.9. Processamento
+    ├─ 13.10. Entradas e Saídas
+    ├─ 13.11. Retroalimentação
+    ├─ 13.12. Ambiente
+    ├─ 13.13. Qualidade da Informação e Valor da Informação
+    ├─ 13.14. Recursos de Hardware, Software, Dados e Redes
+    ├─ 13.15. Abordagem Sócio Técnica
+    ├─ 13.16. Homeostasia
+    ├─ 13.17. Adaptabilidade
+    ├─ 13.18. Fronteiras ou limites
+    ├─ 13.19. Morfogênese
+    └─ 13.20. Resiliência
+14. Desenvolvimento Especializado (DE)
+    ├─ 14.1. Computação Gráfica (CG)
+    ├─ 14.2. Desenvolvimento Web (DW)
+    ├─ 14.3. Desenvolvimento Mobile (DM)
+    ├─ 14.4. Desenvolvimento Desktop (DD)
+    └─ 14.5. Internet das Coisas (IoT)
+```
